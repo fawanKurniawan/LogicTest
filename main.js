@@ -47,29 +47,6 @@ function functionLantai(nomorLantai){
         return c-3;
         }
 }
-
-
-//console.log(hasil);  
-
-
-/* let u=750000;
-let h="";
-
-for (let index = 1; index < 12; index++) {
-    let b=0;
-    let s=0;
-    if (index>1) {
-        b = u*6/100;
-        if (u+b>800000) {
-            s=800000*3/100;
-        }else{
-            s=(u+b)*3/100;
-        }
-    }
-    h +=`Tabungan: ${u} \n bunga: ${b} \n sisih: ${s}\n Uang andi: ${(u+b)-s}\n -----------------\n`;
-    //console.log(h);
-} */
-
  
 
 
